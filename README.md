@@ -6,7 +6,7 @@ IoT Engineer and Java Developer
 
 I've been learning to code for some years. Now I'm working on building IoT infrastructure, device firmware (basic), and some Java projects.
 
-* ✉️  You can contact me at [khanhdeptrai292004@gmail.com](mailto:khanhdev.work@gmail.com)
+* ✉️  You can contact me at [khanhdev.work@gmail.com](mailto:khanhdev.work@gmail.com)
 * 🧠  I'm learning Spring Framework
 * 🤝  I'm open to collaborating on Smart Home, AI for IoT,..
 
